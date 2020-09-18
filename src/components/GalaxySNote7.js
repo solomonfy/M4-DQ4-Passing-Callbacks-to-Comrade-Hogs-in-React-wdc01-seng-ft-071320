@@ -5,7 +5,7 @@ import exclamation from "../assets/exclamation.png";
 
 export default class GalaxySNote7 extends React.Component {
   constructor(props) {
-    super(props);
+    super();
     this.state = {
       panicked: false,
     };
